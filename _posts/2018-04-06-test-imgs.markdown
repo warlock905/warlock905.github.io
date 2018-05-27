@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-![clash-of-clans]({{site.url}}/assets/images/clash-of-clans.jpg)
+![clash-of-clans]({{site.url}}/assets/images/blog/clash-of-clans.jpg)
 
 
 
