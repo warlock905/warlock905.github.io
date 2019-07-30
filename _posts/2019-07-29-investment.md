@@ -10,10 +10,10 @@ categories: account
 
 
 ### 金融工具转成本法
-({{site.url}}/assets/images/blog/07_qyhb_jrgj.png)
+![11]({{site.url}}/assets/images/blog/07_qyhb_jrgj.png)
 
 ### 财务预测转成本法
-({{site.url}}/assets/images/blog/07_qyhb_jrgj.png)
+![]({{site.url}}/assets/images/blog/07_qyhb_jrgj.png)
 
 
 
