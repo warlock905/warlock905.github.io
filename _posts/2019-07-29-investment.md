@@ -15,7 +15,8 @@ categories: account
 ### 权益法转成本法
 ![]({{site.url}}/assets/images/blog/07_qyhb_jrgj.png)
 
-
+### 初始投资成本
+![]({{site.url}}/assets/images/blog/07_cqgqtz_cscb.png)
 
 
 
